@@ -5,15 +5,17 @@ This repository contains two Google Colab notebooks that explore the prediction 
 
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+
 ## Notebooks
 
-### 1. **Diabetes Prediction with SVM and Random Forests**
-   - **File Name**: `Diabetes_Prediction_SVM_RandomForests.ipynb`
-   - **Description**: This notebook focuses on predicting diabetes using SVM and Random Forests. It includes data preprocessing, feature engineering, and model evaluation
+### 1. **Exploratory Data Analysis**
+   - **File Name**: `Diabetes_Prediction_EDA.ipynb`
+   - **Description**: This notebook focuses on exploring the PIMA dataset with visualisations. It includes data preprocessing, feature engineering, and model evaluation
 
 ### 2. **Diabetes Prediction with Ensemble Methods**
    - **File Name**: `Diabetes_Prediction_Ensemble_Methods.ipynb`
    - **Description**: This notebook explores the use of ensemble methods (e.g., Bagging, Voting, Stacking) for diabetes prediction. It also includes advanced feature engineering and model comparison
+
 
 ## Project Structure
 
@@ -82,7 +84,6 @@ diabetes-prediction/
 - Add more visualizations for better insights into the data and model performance
 
 
-- Dataset: [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 - Libraries: `scikit-learn`, `pandas`, `numpy`, `seaborn`, `matplotlib`
 
 
